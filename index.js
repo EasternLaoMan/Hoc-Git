@@ -6,3 +6,4 @@ if(sanpham == "Gà") {console.log("Gia 10$");
 } else if(sanpham == "Bò") {
     console.log("Gia 50$");
 } else if(sanpham == "Vịt") {console.log("Gia 15$");}
+console.log("Da sua");
